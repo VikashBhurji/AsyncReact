@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "ismarried": false,
+      "username": "vikash@masai.school",
+      "Age": "34",
+      "Address": "l",
+      "Salary": "3000",
+      "id": 2
+    },
+    {
+      "ismarried": false,
+      "id": 3
+    },
+    {
+      "ismarried": false,
+      "id": 4
+    },
+    {
+      "ismarried": false,
+      "id": 5
+    },
+    {
+      "ismarried": false,
+      "id": 6
+    },
+    {
+      "ismarried": false,
+      "id": 7
+    }
+  ]
+}
