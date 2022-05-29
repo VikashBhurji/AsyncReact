@@ -7,7 +7,7 @@ export const Timer = () => {
 
     useEffect(() => {
         const id = setInterval(() => {
-           // console.log("hello", time);
+           
             setTime((prev) => {
                 if (prev >= endTime) {
                     clearInterval(id);
@@ -18,7 +18,7 @@ export const Timer = () => {
         }, 1000);
         return () => {
             clearInterval(id);
-            //console.log("stop")
+            
         };
     },[])
     return (
